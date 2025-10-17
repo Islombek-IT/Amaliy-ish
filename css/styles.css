@@ -1,0 +1,139 @@
+.title {
+	text-align: center;
+	background-color: black;
+	color: red;
+}
+ol {
+	list-style: none;
+}
+.link {
+	background-color: blue;
+	color: white;
+}
+.link2 {
+	background-color: brown;
+	color: yellow;
+}
+.link3 {
+	background-color: tomato;
+	color: black;
+}
+.link4 {
+	background-color: black;
+	color: white;
+}
+.link5 {
+	background-color: red;
+	color: black;
+}
+.link6 {
+	color: red;
+}
+.link7 {
+	background-color: chocolate;
+	color: gold;
+}
+.box {
+	background-color: gold;
+	color: black;
+}
+.img {
+	display: flex;
+	gap: 50px;
+	list-style: none;
+}
+div {
+	background-color: slategrey;
+	text-align: center;
+}
+span {
+	color: black;
+	background-color: slategrey;
+}
+.video {
+	display: flex;
+	gap: 30px;
+	list-style: none;
+}
+* {
+	background-color: bisque;
+}
+.text1000 {
+	text-align: justify;
+	border: 1px solid;
+	padding: 10px;
+}
+.foto1 {
+	margin: 20px;
+	float: left;
+}
+.foto2 {
+	margin: 20px;
+	float: right;
+}
+.men {
+	border: 1px solid;
+	border-color: red;
+	color: black;
+	background-color: gold;
+}
+.img {
+	border: 1px solid;
+}
+.text {
+	background-color: teal;
+	color: gold;
+	border: 1px solid;
+	border-radius: 5px;
+	border-color: red;
+}
+.link8 {
+	background-color: blue;
+	color: yellow;
+}
+.title7 {
+	text-align: center;
+	background-color: black;
+	color: red;border: 2px solid;
+}
+
+.It1 {
+	height: 50px;
+	width: 100px;
+	transition: all 2s;
+}
+.It1:hover {
+	text-align: center;
+	background-color: gold;
+	color: red;
+	height: 50px;
+	width: 550px;
+}
+.It2 {
+	height: 50px;
+	width: 100px;
+	transition: all 2s;
+}
+.It2:hover {
+	text-align: center;
+	background-color: rgb(5, 91, 17);
+	color: red;
+	height: 50px;
+	width: 550px;
+}
+.It3 {
+	height: 50px;
+	width: 100px;
+	transition: all 2s;
+}
+.It3:hover {
+	text-align: center;
+	background-color: black;
+	color: white;
+	height: 50px;
+	width: 550px;
+}
+.title7:hover{width: 550px;
+height: 40px;
+background-color: aqua;color: #333;
+border: 2px solid; border-color: gold;}
